@@ -1,3 +1,7 @@
 {
   key: blah
+  keyList:
+    - a
+    - b
+    - c
 }
